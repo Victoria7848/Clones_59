@@ -4,8 +4,8 @@ body {
 
 header{
    display: flex;
-   width: 2095px;
-   height: 197px;
+   width: 1605px;
+   height: 143px;
    padding: 0px 40px;
    justify-content: space-between;
    align-items: center;
@@ -21,10 +21,11 @@ header{
 .logo{
     position: absolute;
     left: 5px;
-    width: 322px;
-    height: 233px;
+    width: 320px;
+    height: 144px;
     background: url(l_4ba728128b8659eeb6a614ace6964a88.jpg);
 }
+
 
 .menu{
    display: flex;
