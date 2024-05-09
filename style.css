@@ -4,7 +4,7 @@ body {
 
 header{
    display: flex;
-   width: 1605px;
+   width: 1000px;
    height: 143px;
    padding: 0px 40px;
    justify-content: space-between;
@@ -21,7 +21,7 @@ header{
 .logo{
     position: absolute;
     left: 5px;
-    width: 320px;
+    width: 200px;
     height: 144px;
     background: url(l_4ba728128b8659eeb6a614ace6964a88.jpg);
 }
