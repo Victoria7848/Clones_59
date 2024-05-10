@@ -1,12 +1,12 @@
 body {
    background-color: #D9D9D9;
-   margin: 0auto;
+   margin: 0px;
 }
 
 header{
    display: flex;
-   width: 1250px;
-   height: 143px;
+   width: 1530px;
+   height: 80px;
    padding: 0px 40px;
    justify-content: space-between;
    align-items: center;
@@ -16,15 +16,15 @@ header{
    z-index: 1; 
    top: 0px;
    left: 0px;
-   position: absolute;
+   position: fixed;
 }
 
 .logo{
     position: absolute;
     left: 5px;
-    width: 200px;
-    height: 144px;
-    background: url(l_4ba728128b8659eeb6a614ace6964a88.jpg);
+    width: 140px;
+    height: 85px;
+    flex-shrink: 0;;
 }
 
 .menu{
