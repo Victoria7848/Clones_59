@@ -124,11 +124,17 @@ h6 {
     bottom: 15px;
 }
 
-rticle {
+article {
     background-color: white;
     padding: 5;
     width: 200px;
     margin: 0px;
+}
+
+article:hover {
+    background-color: rgb(214, 209, 209);
+    transition: 1s ease-in;
+    border: 3px solid bisque;
 }
 
 .catalog {
@@ -137,12 +143,6 @@ rticle {
     flex-wrap: wrap;
     width: 1000px;
     margin: 0 30px;
-}
-
-.catalog:hover {
-    background-color: rgb(214, 209, 209);
-    transition: 1s ease-in;
-    border: 3px solid bisque;
 }
    
 .product {
