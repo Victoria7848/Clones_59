@@ -165,3 +165,18 @@ article:hover {
 .gallery {
     position: relative;
 }
+
+.principle {
+    width: 1020px;
+    height: 390px;
+    text-align: center;
+    background-color: #C1BCBC;
+    font-family: 'Inter';
+}
+
+.main-teachers__box-lang img {
+    width: 160px;
+    height: 150px;
+    margin: 0 5px;
+    border-radius: 200px;
+}
