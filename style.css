@@ -167,10 +167,10 @@ article:hover {
 }
 
 .principle {
-    width: 450px;
-    height: 400px;
+    width: 850px;
+    height: 500px;
     text-align: center;
-    padding-left: 400px;
+    padding-right: 400px;
     background-color: #C1BCBC;
     font-family: 'Inter';
 }
