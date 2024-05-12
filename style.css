@@ -169,7 +169,7 @@ article:hover {
 }
 
 .principle {
-    width: 450px;
+    width: 270px;
     height: 500px;
     text-align: center;
     padding-right: 1020px;
@@ -182,4 +182,10 @@ article:hover {
     height: 150px;
     margin: 0 5px;
     border-radius: 200px;
+}
+
+footer {
+   background-color: #745454;
+   width: 1530px;
+   height: 80px;
 }
