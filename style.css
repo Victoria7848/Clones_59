@@ -170,6 +170,7 @@ article:hover {
     width: 1020px;
     height: 390px;
     text-align: center;
+    padding-left: 900px;
     background-color: #C1BCBC;
     font-family: 'Inter';
 }
