@@ -172,7 +172,6 @@ article:hover {
     width: 270px;
     height: 500px;
     text-align: center;
-    padding-right: 1020px;
     background-color: #C1BCBC;
     font-family: 'Inter';
 }
@@ -185,7 +184,12 @@ article:hover {
 }
 
 footer {
-   background-color: #745454;
-   width: 1530px;
-   height: 80px;
+    background-color: #745454;
+    padding: 10px;
+    margin-top: 20px;
 }
+
+footer p {
+    background-color: white;
+    padding: 5px;
+ }
