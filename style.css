@@ -169,9 +169,10 @@ article:hover {
 }
 
 . home_robot{
-    width: 270px;
+    width: 570px;
     height: 500px;
     text-align: center;
+    padding-left: 200px;
     background-color: #C1BCBC;
     font-family: 'Inter';
 }
