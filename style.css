@@ -169,7 +169,7 @@ article:hover {
 }
 
 .home_robot{
-    width: 790px;
+    width: 770px;
     height: 500px;
     text-align: center;
     padding-right: 600px;
@@ -182,6 +182,7 @@ article:hover {
     height: 150px;
     margin: 0 5px;
     border-radius: 200px;
+    text-align: center;
 }
 
 footer {
